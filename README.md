@@ -12,3 +12,9 @@ Esse passo a passo é baseado no tutorial no seguinte link: https://microsoftlea
 - Após preencher com os dados de criação, clique em **Review + create**, confira os dados e clique em **Create**
   - O processo pode demorar um pouco (5 - 15 minutos)
 -  Clique em **Launch studio**
+
+#### 2 - Usando o Automated ML
+
+- Em **Azure Machine Learning studio**, clique em **Automated ML page**
+- Crie um **Automated ML job** inserindo as informações solicitadas
+- Após inserir as informações, aguarde o processamento
