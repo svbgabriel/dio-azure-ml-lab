@@ -27,3 +27,10 @@ Observações: O idioma usando para interface foi o inglês
 - Selecione **Deploy** e use a opção **Web service**
 - Preencha as informações e clique em **Deploy**
 - Aguarde o processamento, acompanhando em **Deploy status**
+
+#### 4 - Testando o serviço
+
+- Selecione o endpoint criado
+- Na aba **Test** insira os dados
+  - Há exemplos de requisição e resposta no repositório
+- Clique em **Test**
