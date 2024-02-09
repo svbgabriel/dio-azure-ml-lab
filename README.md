@@ -5,6 +5,8 @@
 
 Esse passo a passo é baseado no tutorial no seguinte link: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
+Observações: O idioma usando para interface foi o inglês
+
 #### 1 - Criação do Azure Machine Learning
 
 - Faça o login no [Azure Portal](https://portal.azure.com)
@@ -18,3 +20,10 @@ Esse passo a passo é baseado no tutorial no seguinte link: https://microsoftlea
 - Em **Azure Machine Learning studio**, clique em **Automated ML page**
 - Crie um **Automated ML job** inserindo as informações solicitadas
 - Após inserir as informações, aguarde o processamento
+
+#### 3 - Encontre o melhor modelo
+
+- Nos trabalhos, encontre e selecione o melhor trabalho
+- Selecione **Deploy** e use a opção **Web service**
+- Preencha as informações e clique em **Deploy**
+- Aguarde o processamento, acompanhando em **Deploy status**
